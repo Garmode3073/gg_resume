@@ -6,19 +6,15 @@ This project is a dynamic portfolio website that serves as a resume for a client
 ## Milestones
 ### Milestone 1: Project Initialization
 - **Description:** Set up the project structure and initial configurations.
-- **Deadline:** [Insert deadline]
 
 ### Milestone 2: UI Design Completion
 - **Description:** Complete the design of the user interface, including wireframes and layout.
-- **Deadline:** [Insert deadline]
 
 ### Milestone 3: Backend Integration
 - **Description:** Integrate Firebase for data storage and retrieval.
-- **Deadline:** [Insert deadline]
 
 ### Milestone 4: Testing and Deployment
 - **Description:** Conduct testing on different devices and deploy the website to Firebase Hosting.
-- **Deadline:** [Insert deadline]
 
 ## Task Breakdown
 ### Tasks
